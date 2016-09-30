@@ -300,4 +300,5 @@ if parameters["debuggingMode"]: printRawParameters(parameters)
 
 print("\nSequencaRescuer: Starting mpileup\n")
 
+#BLAHBLAHBLAH
 runProcesses(parameters)
